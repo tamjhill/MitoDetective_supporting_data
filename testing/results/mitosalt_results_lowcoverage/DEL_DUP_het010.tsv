@@ -1,0 +1,2 @@
+sample	cluster.id	alt.reads	ref.reads	heteroplasmy	del.start.range	del.end.range	del.size	final.event	final.start	final.end	final.size	seq1	seq2	seq
+indel/DEL_DUP_het010	cluster11	9	103	8.0357	8469 - 8469	13448 - 13448	4979	del	8470	13448	4979	ACACAAACTACCACCT*ACCTCCCTCACCAAA	TACCTCTCACTTCAAC*CTCCCTCACCATTGG	ACCTCCCTCACCA

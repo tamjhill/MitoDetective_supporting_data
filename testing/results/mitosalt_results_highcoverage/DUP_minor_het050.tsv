@@ -1,0 +1,3 @@
+sample	cluster.id	alt.reads	ref.reads	heteroplasmy	del.start.range	del.end.range	del.size	final.event	final.start	final.end	final.size	seq1	seq2	seq
+indel/DUP_minor_het050	cluster810	5	3392	 0.1472	4497 - 4497	2000 - 2000	14072	dup	2001	4497	2497	GAGGCGACAAACCTAC*CGAGCCTGGTGATAG	GCCCAACCCGTCATCT*ACTCTACCATCTTTG	CTAC
+indel/DUP_minor_het050	cluster813	2309	3394	40.4875	4500 - 4500	2000 - 2000	14069	dup	2001	4500	2500	GAGGCGACAAACCTAC*CGAGCCTGGTGATAG	CAACCCGTCATCTACT*CTACCATCTTTGCAG	CTACC

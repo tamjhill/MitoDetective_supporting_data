@@ -1,0 +1,2 @@
+sample	cluster.id	alt.reads	ref.reads	heteroplasmy	del.start.range	del.end.range	del.size	final.event	final.start	final.end	final.size	seq1	seq2	seq
+indel/DEL_DIMER_het005	cluster11	5	98	4.8544	8470 - 8470	13448 - 13448	4978	del	8471	13448	4978	CACAAACTACCACCTA*CCTCCCTCACCAAAG	TACCTCTCACTTCAAC*CTCCCTCACCATTGG	ACCTCCCTCACCA
