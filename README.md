@@ -45,7 +45,7 @@ Output: `simulated_reads/ont/<variant>/het{005,010,025,050,075}.bam`
 
 `run_comparison.py` scores pipeline calls against a truth table (`sample`, `svtype`, `start`, `end`, `wraps_origin`, `effective_heteroplasmy`). It supports two output styles:
 - `per_cluster_het` – one call table with a heteroplasmy per call (MitoSAlt's output)
--`cluster_plus_burden` – per-sample cluster tables plus a positional deletion-burden table (MitoDetective's output)
+- `cluster_plus_burden` – per-sample cluster tables plus a positional deletion-burden table (MitoDetective's output)
 
 Key steps:
 Match calls to truth by reciprocal overlap with circular-genome awareness; samples with no calls are scored as all-FN
