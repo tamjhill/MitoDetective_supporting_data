@@ -1,7 +1,7 @@
 # mtDNA LSR Benchmarking for MitoDetective paper
-Simulated long-read (ONT) mitochondrial DNA datasets with large-scale rearrangements (LSRs) at defined heteroplasmy levels, used to benchmark two pipelines on detection accuracy, heteroplasmy estimation and resource usage.
+Scripts and testing for the simulated long-read (ONT) mitochondrial DNA datasets. The datasets contain large-scale rearrangements (LSRs) at defined heteroplasmy levels, used to benchmark two pipelines on detection accuracy, heteroplasmy estimation and resource usage.
 
-The simulated dataset can be found in the linked Zenodo record.
+The simulated dataset files can be found in the linked Zenodo record.
 
 ---
 Workflow overview
