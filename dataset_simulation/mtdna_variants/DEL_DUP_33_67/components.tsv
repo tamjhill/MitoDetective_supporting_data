@@ -1,0 +1,3 @@
+label	svtype	weight	mutant_fa
+del	DEL	0.33	del_mutant.fa
+dup	DUP	0.67	dup_mutant.fa

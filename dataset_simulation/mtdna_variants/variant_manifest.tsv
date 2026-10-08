@@ -1,0 +1,6 @@
+variant_name	type	notes
+DEL_common	DEL	Common deletion, most frequent pathogenic mtDNA deletion
+DUP_large	DUP	Large duplication, wrapping origin
+MULTI_DEL	MIXTURE	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+DEL_DUP_33_67	MIXTURE	Compound SV: common deletion + duplication
+DEL_DIMER_common	DEL_DIMER	Deletion dimer: retained arc (13448-16569 + 0-8469) duplicated in tandem, no other bases. Models dimer of deleted molecules.
