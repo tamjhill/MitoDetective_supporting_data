@@ -1,0 +1,27 @@
+sample	site_type	event_type	final_result	max_mito_coverage	del_reads	del_clusters	dup_reads	dup_clusters	dimer_reads	dimer_clusters	trimer_reads	whole_genome_dimer_reads	prop_del	prop_dup	prop_dimer	prop_wgd	notes
+DEL_DIMERhet005	Single	Deletion	Single deletion detected	1099.0	23	1	0	0	4	2	0	0	0.02093	0.0	0.00364	0.0	
+DEL_DIMERhet010	Single	Deletion	Single deletion detected	1119.0	46	3	0	0	3	1	0	0	0.04111	0.0	0.00268	0.0	
+DEL_DIMERhet025	Single	Deletion	Single deletion detected	1183.0	102	2	0	0	14	1	0	0	0.08622	0.0	0.01183	0.0	
+DEL_DIMERhet050	Single	Deletion	Single deletion detected	1337.0	0	0	0	0	27	1	0	0	0.0	0.0	0.02019	0.0	
+DEL_DIMERhet075	Single	Deletion	Single deletion detected	1554.0	0	0	0	0	46	1	0	0	0.0	0.0	0.0296	0.0	
+DEL_DUPhet005			Single event site detected - mixed LSR types	1098.0	27	2	9	1	0	0	0	0	0.02459	0.0082	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DEL_DUPhet010			Single event site detected - mixed LSR types	1122.0	45	1	11	1	0	0	0	0	0.04011	0.0098	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DEL_DUPhet025			Single event site detected - mixed LSR types	1206.0	121	2	38	1	0	0	0	0	0.10033	0.03151	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DEL_DUPhet050			Single event site detected - mixed LSR types	1386.0	268	2	58	1	0	0	0	0	0.19336	0.04185	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DEL_DUPhet075			Single event site detected - mixed LSR types	1503.0	370	1	96	1	0	0	0	0	0.24617	0.06387	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DEL_commonhet005	Single	Deletion	Single deletion detected	1066.0	36	2	0	0	0	0	0	0	0.03377	0.0	0.0	0.0	
+DEL_commonhet010	Single	Deletion	Single deletion detected	1055.0	77	1	0	0	0	0	0	0	0.07299	0.0	0.0	0.0	
+DEL_commonhet025	Single	Deletion	Single deletion detected	1032.0	199	1	0	0	0	0	0	0	0.19283	0.0	0.0	0.0	
+DEL_commonhet050	Single	Deletion	Single deletion detected	1047.0	391	1	0	0	0	0	0	0	0.37345	0.0	0.0	0.0	
+DEL_commonhet075	Single	Deletion	Single deletion detected	1009.0	597	4	0	0	0	0	0	0	0.59167	0.0	0.0	0.0	
+DUP_largehet005			Single event site detected - mixed LSR types	1094.0	4	1	12	2	0	0	0	0	0.00366	0.01097	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DUP_largehet010			Single event site detected - mixed LSR types	1116.0	6	1	38	1	0	0	0	0	0.00538	0.03405	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DUP_largehet025			Single event site detected - mixed LSR types	1225.0	19	1	74	2	0	0	0	0	0.01551	0.06041	0.0	0.0	"unrecognized [RESULT] string (""Single event site detected - mixed LSR types"") - site_type/event_type left blank, check final_result column"
+DUP_largehet050	Single	Duplication	Single duplication detected	1453.0	0	0	160	1	0	0	0	0	0.0	0.11012	0.0	0.0	
+DUP_largehet075	Single	Duplication	Single duplication detected	1711.0	0	0	233	1	0	0	0	0	0.0	0.13618	0.0	0.0	
+MULTI_DELhet005	Multiple	Deletion	Multiple deletions detected	1054.0	31	10	0	0	0	0	0	0	0.02941	0.0	0.0	0.0	
+MULTI_DELhet010	Multiple	Deletion	Multiple deletions detected	1061.0	68	15	0	0	0	0	0	0	0.06409	0.0	0.0	0.0	
+MULTI_DELhet025	Multiple	Deletion	Multiple deletions detected	1013.0	190	13	0	0	0	0	0	0	0.18756	0.0	0.0	0.0	
+MULTI_DELhet050	Multiple	Deletion	Multiple deletions detected	989.0	354	14	0	0	0	0	0	0	0.35794	0.0	0.0	0.0	
+MULTI_DELhet075	Multiple	Deletion	Multiple deletions detected	977.0	544	17	0	0	0	0	0	0	0.55681	0.0	0.0	0.0	
+ps_records																	log file not found - sample name derived from folder name; exact_counts.tsv not found; used log values where available; coverage file not found; proportions could not be calculated

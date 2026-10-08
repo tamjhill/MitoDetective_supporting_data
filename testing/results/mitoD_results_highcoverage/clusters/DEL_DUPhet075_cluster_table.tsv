@@ -1,0 +1,17 @@
+cluster	start	end	read_count	type	orig_type
+cluster4	8382	13368	1	del	del
+cluster5	8412	13401	2	del	del
+dup2	8429	13426	1	dup	dup
+cluster1	8431	13461	5774	dom	del
+cluster2	8440	12331	1	del	del
+cluster12	8463	11392	1	del	del
+cluster6	8468	9755	1	del	del
+cluster10	8471	12481	1	del	del
+cluster14	8482	13354	1	del	del
+dup1	8482	13421	1599	dup	dup
+cluster8	8485	9519	1	del	del
+cluster9	9545	13479	1	del	del
+cluster7	9771	13458	1	del	del
+cluster13	11427	13473	1	del	del
+cluster3	12366	13448	1	del	del
+cluster11	12494	13458	1	del	del

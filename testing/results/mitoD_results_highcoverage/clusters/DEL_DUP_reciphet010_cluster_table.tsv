@@ -1,0 +1,3 @@
+cluster	start	end	read_count	type	orig_type
+cluster1	8446	13460	885	dom	del
+dup1	8469	13440	172	dup	dup
