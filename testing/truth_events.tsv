@@ -1,0 +1,86 @@
+sample	variant_name	event_label	svtype	start_raw	end_raw	start	end	wraps_origin	size	het_level	weight	effective_heteroplasmy	notes
+DEL_common_het005	DEL_common_4977	DEL_common_4977	DEL	8470	13447	8470	13447	False	4977	0.05	1.0	0.05	Common deletion (mtDNA4977), most frequent pathogenic mtDNA deletion
+DEL_common_het010	DEL_common_4977	DEL_common_4977	DEL	8470	13447	8470	13447	False	4977	0.1	1.0	0.1	Common deletion (mtDNA4977), most frequent pathogenic mtDNA deletion
+DEL_common_het025	DEL_common_4977	DEL_common_4977	DEL	8470	13447	8470	13447	False	4977	0.25	1.0	0.25	Common deletion (mtDNA4977), most frequent pathogenic mtDNA deletion
+DEL_common_het050	DEL_common_4977	DEL_common_4977	DEL	8470	13447	8470	13447	False	4977	0.5	1.0	0.5	Common deletion (mtDNA4977), most frequent pathogenic mtDNA deletion
+DEL_common_het075	DEL_common_4977	DEL_common_4977	DEL	8470	13447	8470	13447	False	4977	0.75	1.0	0.75	Common deletion (mtDNA4977), most frequent pathogenic mtDNA deletion
+DUP_large_het005	DUP_origin_spanning_large	DUP_origin_spanning_large	DUP	15000	21569	5000	15000	False	10000	0.05	1.0	0.05	Large duplication, wrapping origin
+DUP_large_het010	DUP_origin_spanning_large	DUP_origin_spanning_large	DUP	15000	21569	5000	15000	False	10000	0.1	1.0	0.1	Large duplication, wrapping origin
+DUP_large_het025	DUP_origin_spanning_large	DUP_origin_spanning_large	DUP	15000	21569	5000	15000	False	10000	0.25	1.0	0.25	Large duplication, wrapping origin
+DUP_large_het050	DUP_origin_spanning_large	DUP_origin_spanning_large	DUP	15000	21569	5000	15000	False	10000	0.5	1.0	0.5	Large duplication, wrapping origin
+DUP_large_het075	DUP_origin_spanning_large	DUP_origin_spanning_large	DUP	15000	21569	5000	15000	False	10000	0.75	1.0	0.75	Large duplication, wrapping origin
+MULTI_DEL_het005	MULTI_DEL_version2	del2_a	DEL	1500	3800	1500	3800	False	2300	0.05	0.05	0.0025000000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_b	DEL	2000	4000	2000	4000	False	2000	0.05	0.08	0.004	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_c	DEL	6000	10800	6000	10800	False	4800	0.05	0.07	0.0035000000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_e	DEL	6400	11000	6400	11000	False	4600	0.05	0.06	0.003	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_f	DEL	7100	13200	7100	13200	False	6100	0.05	0.08	0.004	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_g	DEL	5900	12800	5900	12800	False	6900	0.05	0.18	0.009	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_h	DEL	7800	11500	7800	11500	False	3700	0.05	0.07	0.0035000000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_i	DEL	8300	13400	8300	13400	False	5100	0.05	0.1	0.005000000000000001	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_j	DEL	8100	11800	8100	11800	False	3700	0.05	0.06	0.003	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_k	DEL	8900	14600	8900	14600	False	5700	0.05	0.06	0.003	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_l	DEL	9200	15000	9200	15000	False	5800	0.05	0.12	0.006	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het005	MULTI_DEL_version2	del2_m	DEL	9700	14200	9700	14200	False	4500	0.05	0.07	0.0035000000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_a	DEL	1500	3800	1500	3800	False	2300	0.1	0.05	0.005000000000000001	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_b	DEL	2000	4000	2000	4000	False	2000	0.1	0.08	0.008	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_c	DEL	6000	10800	6000	10800	False	4800	0.1	0.07	0.007000000000000001	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_e	DEL	6400	11000	6400	11000	False	4600	0.1	0.06	0.006	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_f	DEL	7100	13200	7100	13200	False	6100	0.1	0.08	0.008	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_g	DEL	5900	12800	5900	12800	False	6900	0.1	0.18	0.018	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_h	DEL	7800	11500	7800	11500	False	3700	0.1	0.07	0.007000000000000001	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_i	DEL	8300	13400	8300	13400	False	5100	0.1	0.1	0.010000000000000002	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_j	DEL	8100	11800	8100	11800	False	3700	0.1	0.06	0.006	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_k	DEL	8900	14600	8900	14600	False	5700	0.1	0.06	0.006	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_l	DEL	9200	15000	9200	15000	False	5800	0.1	0.12	0.012	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het010	MULTI_DEL_version2	del2_m	DEL	9700	14200	9700	14200	False	4500	0.1	0.07	0.007000000000000001	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_a	DEL	1500	3800	1500	3800	False	2300	0.25	0.05	0.0125	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_b	DEL	2000	4000	2000	4000	False	2000	0.25	0.08	0.02	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_c	DEL	6000	10800	6000	10800	False	4800	0.25	0.07	0.0175	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_e	DEL	6400	11000	6400	11000	False	4600	0.25	0.06	0.015	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_f	DEL	7100	13200	7100	13200	False	6100	0.25	0.08	0.02	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_g	DEL	5900	12800	5900	12800	False	6900	0.25	0.18	0.045	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_h	DEL	7800	11500	7800	11500	False	3700	0.25	0.07	0.0175	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_i	DEL	8300	13400	8300	13400	False	5100	0.25	0.1	0.025	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_j	DEL	8100	11800	8100	11800	False	3700	0.25	0.06	0.015	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_k	DEL	8900	14600	8900	14600	False	5700	0.25	0.06	0.015	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_l	DEL	9200	15000	9200	15000	False	5800	0.25	0.12	0.03	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het025	MULTI_DEL_version2	del2_m	DEL	9700	14200	9700	14200	False	4500	0.25	0.07	0.0175	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_a	DEL	1500	3800	1500	3800	False	2300	0.5	0.05	0.025	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_b	DEL	2000	4000	2000	4000	False	2000	0.5	0.08	0.04	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_c	DEL	6000	10800	6000	10800	False	4800	0.5	0.07	0.035	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_e	DEL	6400	11000	6400	11000	False	4600	0.5	0.06	0.03	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_f	DEL	7100	13200	7100	13200	False	6100	0.5	0.08	0.04	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_g	DEL	5900	12800	5900	12800	False	6900	0.5	0.18	0.09	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_h	DEL	7800	11500	7800	11500	False	3700	0.5	0.07	0.035	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_i	DEL	8300	13400	8300	13400	False	5100	0.5	0.1	0.05	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_j	DEL	8100	11800	8100	11800	False	3700	0.5	0.06	0.03	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_k	DEL	8900	14600	8900	14600	False	5700	0.5	0.06	0.03	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_l	DEL	9200	15000	9200	15000	False	5800	0.5	0.12	0.06	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het050	MULTI_DEL_version2	del2_m	DEL	9700	14200	9700	14200	False	4500	0.5	0.07	0.035	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_a	DEL	1500	3800	1500	3800	False	2300	0.75	0.05	0.037500000000000006	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_b	DEL	2000	4000	2000	4000	False	2000	0.75	0.08	0.06	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_c	DEL	6000	10800	6000	10800	False	4800	0.75	0.07	0.052500000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_e	DEL	6400	11000	6400	11000	False	4600	0.75	0.06	0.045	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_f	DEL	7100	13200	7100	13200	False	6100	0.75	0.08	0.06	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_g	DEL	5900	12800	5900	12800	False	6900	0.75	0.18	0.135	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_h	DEL	7800	11500	7800	11500	False	3700	0.75	0.07	0.052500000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_i	DEL	8300	13400	8300	13400	False	5100	0.75	0.1	0.07500000000000001	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_j	DEL	8100	11800	8100	11800	False	3700	0.75	0.06	0.045	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_k	DEL	8900	14600	8900	14600	False	5700	0.75	0.06	0.045	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_l	DEL	9200	15000	9200	15000	False	5800	0.75	0.12	0.09	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+MULTI_DEL_het075	MULTI_DEL_version2	del2_m	DEL	9700	14200	9700	14200	False	4500	0.75	0.07	0.052500000000000005	Deletions scattered across major arc, varying in size, varying weight, models multiple deletion disorders
+DEL_DUP_het005	DEL_and_DUP_33_67	del	DEL	8470	13448	8470	13448	False	4978	0.05	0.33	0.0165	Compound SV: common deletion + duplication
+DEL_DUP_het005	DEL_and_DUP_33_67	dup	DUP	8470	13448	8470	13448	False	4978	0.05	0.67	0.0335	Compound SV: common deletion + duplication
+DEL_DUP_het010	DEL_and_DUP_33_67	del	DEL	8470	13448	8470	13448	False	4978	0.1	0.33	0.033	Compound SV: common deletion + duplication
+DEL_DUP_het010	DEL_and_DUP_33_67	dup	DUP	8470	13448	8470	13448	False	4978	0.1	0.67	0.067	Compound SV: common deletion + duplication
+DEL_DUP_het025	DEL_and_DUP_33_67	del	DEL	8470	13448	8470	13448	False	4978	0.25	0.33	0.0825	Compound SV: common deletion + duplication
+DEL_DUP_het025	DEL_and_DUP_33_67	dup	DUP	8470	13448	8470	13448	False	4978	0.25	0.67	0.1675	Compound SV: common deletion + duplication
+DEL_DUP_het050	DEL_and_DUP_33_67	del	DEL	8470	13448	8470	13448	False	4978	0.5	0.33	0.165	Compound SV: common deletion + duplication
+DEL_DUP_het050	DEL_and_DUP_33_67	dup	DUP	8470	13448	8470	13448	False	4978	0.5	0.67	0.335	Compound SV: common deletion + duplication
+DEL_DUP_het075	DEL_and_DUP_33_67	del	DEL	8470	13448	8470	13448	False	4978	0.75	0.33	0.2475	Compound SV: common deletion + duplication
+DEL_DUP_het075	DEL_and_DUP_33_67	dup	DUP	8470	13448	8470	13448	False	4978	0.75	0.67	0.5025000000000001	Compound SV: common deletion + duplication
+DEL_DIMER_het005	DEL_DIMER_common	DEL_DIMER_common	DIMER	8470	13448	8470	13448	False	4978	0.05	1.0	0.05	Deletion dimer: retained arc (13448-16569 + 0-8469) duplicated in tandem, no other bases. Models dimer of deleted molecules.
+DEL_DIMER_het010	DEL_DIMER_common	DEL_DIMER_common	DIMER	8470	13448	8470	13448	False	4978	0.1	1.0	0.1	Deletion dimer: retained arc (13448-16569 + 0-8469) duplicated in tandem, no other bases. Models dimer of deleted molecules.
+DEL_DIMER_het025	DEL_DIMER_common	DEL_DIMER_common	DIMER	8470	13448	8470	13448	False	4978	0.25	1.0	0.25	Deletion dimer: retained arc (13448-16569 + 0-8469) duplicated in tandem, no other bases. Models dimer of deleted molecules.
+DEL_DIMER_het050	DEL_DIMER_common	DEL_DIMER_common	DIMER	8470	13448	8470	13448	False	4978	0.5	1.0	0.5	Deletion dimer: retained arc (13448-16569 + 0-8469) duplicated in tandem, no other bases. Models dimer of deleted molecules.
+DEL_DIMER_het075	DEL_DIMER_common	DEL_DIMER_common	DIMER	8470	13448	8470	13448	False	4978	0.75	1.0	0.75	Deletion dimer: retained arc (13448-16569 + 0-8469) duplicated in tandem, no other bases. Models dimer of deleted molecules.
