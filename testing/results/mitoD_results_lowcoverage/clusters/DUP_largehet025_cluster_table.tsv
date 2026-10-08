@@ -1,0 +1,4 @@
+cluster	start	end	read_count	type	orig_type
+dup2	4984	14994	1	dup	dup
+cluster1	4996	14998	19	del	del
+dup1	4999	14995	73	dom	dup

@@ -1,0 +1,16 @@
+cluster	start	end	read_count	type	orig_type
+cluster6	1990	4003	5	del	del
+cluster13	5889	12790	1	del	del
+cluster2	5900	12802	12	del	del
+cluster14	5985	10789	1	del	del
+cluster7	6000	10800	8	del	del
+cluster1	6399	11004	6	del	del
+cluster8	7099	13199	8	del	del
+cluster3	7800	11500	4	del	del
+cluster9	8100	11800	4	del	del
+cluster15	8279	13384	1	del	del
+cluster4	8297	13400	6	del	del
+cluster10	8889	14590	1	del	del
+cluster12	8900	14600	1	del	del
+cluster11	9197	14998	6	del	del
+cluster5	9699	14199	4	del	del
